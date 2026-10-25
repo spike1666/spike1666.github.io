@@ -565,7 +565,7 @@ h6::before {
 
 /* 加载动画 */
 .loading-img {
-  background: url(/img/touxiang.png) no-repeat center center;
+  background: url(/img/touxiang.webp) no-repeat center center;
   background-size: cover;
 }
 
